@@ -8,12 +8,12 @@
 ---
 
 St. Johns Neighborhood Culture Study 2025 - Work in Progress
-<img src="StJohnsMap.png"/>
+<img src="images/StJohnsMap.png?raw=true"/>
 
 ---
 
 [Parkrose Culture Study 2024](/pdf/Parkrose 2025 Survey Results.pdf)
-<img src="ParkroseMap.png"/>
+<img src="images/ParkroseMap.png?raw=true"/>
 
 ---
 [Arbor Lodge Culture Study 2024](/pdf/2024 ALNA Survey Results Overview.pdf)
