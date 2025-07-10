@@ -2,16 +2,23 @@
 
 ---
 
-[Project 1 Title](sample_page)
+[Sanctuary Policy Exploration](sample_page)
 <img src="images/thumb1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[St. Johns Neighborhood Culture Study 2025](/pdf/sample_presentation.pdf)
+<img src=".jpg"/>
 
 ---
 
+[Parkrose Culture Study 2024](/pdf/sample_presentation.pdf)
+<img src=".jpg"/>
+
+---
+[Arbor Lodge Culture Study 2024](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[St. Johns Neighborhood Culture Study 2024](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
