@@ -2,7 +2,7 @@
 
 ---
 
-[Sanctuary Policy Exploration](sample_page)
+[Sanctuary Policy Exploration](sanctuary_policies.md)
 <img src="images/SanctuaryPlaceholder.png?raw=true"/>
 
 ---
@@ -16,7 +16,7 @@ St. Johns Neighborhood Culture Study 2025 - Work in Progress
 <img src="images/ParkroseMap.png?raw=true"/>
 
 ---
-[Arbor Lodge Culture Study 2024](/pdf/2024 ALNA Survey Results Overview.pdf)
+[Arbor Lodge Culture Study 2024](/pdf/ALNA.pdf)
 <img src="images/ArborLodgeMap.png?raw=true"/>
 
 ---
