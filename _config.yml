@@ -1,14 +1,17 @@
 title: Kim Larson # your name (or website title) here
 logo: "/images/KimEmmy.jpeg?raw=true" # your photo (or logo) here
 description: >
-  Survey Geek, Neighborhood Nerd<br><br>
+  <B>Survey Geek, Neighborhood Nerd</b><br><br>
   I'm a community advocate and survey enthusiast with a background in market research and economic development.
-  I love turning challenges into opportunities and building strong, trust-based relationships through collaboration.
-  I thrive in creative, hands-on environments.<br>
-  Ongoing projects include the Portland Neighborhood Culture Study Series, my passion project rooted in community insight and professional growth.
-  I'm always open to connecting and exploring ways to contribute meaningfully to mission-driven teams.<br><br><br><br>
+  I'm currently VP of Insights at Luminoso, an AI text analytics company founded out of MIT. 
+  I love turning challenges into opportunities, building strong, trust-based relationships through collaboration, and thrive in creative, hands-on environments.
+  <br><br>
+  My ongoing passion projects include the Portland Neighborhood Culture Study Series, a self-started initative rooted in community insight and professional growth.
+  I'm always open to connecting and exploring ways to contribute meaningfully to mission-driven teams.<br><br><br>
   
-  <a href="https://www.linkedin.com/in/kimalarson/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/kimalarson/">Connect with me on LinkedIn</a> 
+  <a href="mailto:klarson@luminoso.com?subject=Github%20Connection&body=Hey%20Kim,%20I'm%20interested%20in%20what%20you%20do!">Email me at KLarson@Luminoso.com</a>
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
