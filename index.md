@@ -8,12 +8,12 @@
 ---
 
 [Parkrose Culture Study 2024](/pdf/Parkrose_2025_Deck.pdf)
-<img src="images/ParkroseMap.png?raw=true"/>
+<img src="images/parkrose_thumb.png?raw=true"/>
 
 ---
 [Arbor Lodge Culture Study 2024](/pdf/ALNA.pdf)
-<img src="images/ArborLodgeMap.png?raw=true"/>
+<img src="images/ALNA_thumb.png?raw=true"/>
 
 ---
 [St. Johns Neighborhood Culture Study 2024](/pdf/SJNA_2025_April.pdf)
-<img src="images/StJohnsMap.png?raw=true"/>
+<img src="images/SJNA_thumb.png?raw=true"/>
