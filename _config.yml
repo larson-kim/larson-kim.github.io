@@ -11,10 +11,11 @@ description: >
  <BR><BR>
 
   <b><u>Resources</b></u><BR>
-  <a href="/pdf/larson_leadership_resume.pdf" target="_blank">Resume</a><BR>
   <a href="https://www.linkedin.com/in/kimalarson/">LinkedIn</a><br>
   <a href="{{ site.github.owner_url }}">GitHub</a><br>
-  <a href="mailto:klarson@luminoso.com?subject=Github%20Connection&body=Hey%20Kim,%20I'm%20interested%20in%20what%20you%20do!">Email: KLarson@Luminoso.com</a><br>
+  Email: KLarson@Luminoso.com <br>
+  <a href="/pdf/larson_leadership_resume.pdf" target="_blank">Resume</a><BR>
+
   
   
 remote_theme: pages-themes/minimal@v0.2.0
