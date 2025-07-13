@@ -1,24 +1,17 @@
-title: Kim Larson # your name (or website title) here
-logo: "/images/KimEmmy.jpeg?raw=true" # your photo (or logo) here
+title: "Kim Larson"
+logo: "/images/KimEmmy.jpeg?raw=true"
 description: >
-  <B>Survey Geek, Neighborhood Nerd</b><br><br>
+  <b>Survey Geek, Neighborhood Nerd</b><br><br>
   I'm a community advocate and survey enthusiast with a background in market research and economic development.
-  I'm the VP of Insights at <a href="https://www.luminoso.com/">Luminoso</a>, an AI text analytics company founded out of the MIT Media Lab. 
-  I love turning challenges into opportunities, building strong, trust-based relationships through collaboration, and thrive in creative, hands-on environments.
-  <br><br>
+  I'm the VP of Insights at <a href='https://www.luminoso.com/'>Luminoso</a>, an AI text analytics company founded out of the MIT Media Lab.
+  I love turning challenges into opportunities, building strong, trust-based relationships through collaboration, and thrive in creative, hands-on environments.<br><br>
   My ongoing passion projects include the Portland Neighborhood Culture Study Series, a self-started initiative rooted in community insight and professional growth.
-  I'm always open to connecting and exploring ways to contribute meaningfully to mission-driven teams.<br>
- <BR><BR>
-
-  <b><u>Resources</b></u><BR>
-  <a href="https://www.linkedin.com/in/kimalarson/">LinkedIn</a><br>
-  <a href="{{ site.github.owner_url }}">GitHub</a><br>
-  Email: KLarson@Luminoso.com <br>
-  <a href="/pdf/larson_leadership_resume.pdf" target="_blank">Resume</a><BR>
-
-  
-  
-remote_theme: pages-themes/minimal@v0.2.0
+  I'm always open to connecting and exploring ways to contribute meaningfully to mission-driven teams.<br><br>
+  <b><u>Resources</u></b><br>
+  <a href='/pdf/larson_leadership_resume.pdf' target='_blank'>Resume</a><br>
+  <a href='https://www.linkedin.com/in/kimlarson/'>LinkedIn</a><br>
+  <a href='mailto:klarson@luminoso.com?subject=GitHub%20Connection&body=Hey%20Kim,%20I%20am%20interested%20in%20what%20you%20do!'>Email Me</a><br>
+  <a href='https://github.com/larson-kim'>GitHub</a>
+remote_theme: pages-themes/minima@v0.2.0
 plugins:
   - jekyll-remote-theme
-
