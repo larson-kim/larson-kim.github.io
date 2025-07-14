@@ -21,7 +21,7 @@ Machine learning to allow growers to better forecast giant pumpkin weights with 
 ---
 [Arbor Lodge Culture Study 2024](/pdf/ALNA.pdf)
 <img src="images/ALNA_thumb.png?raw=true"/>
-Arbor Lodge fields second version of the neighborhood culture study with (Kevin Micalizzi)[https://youtu.be/NvHWf96TWrQ]. 
+Arbor Lodge fields second version of the neighborhood culture study with [Kevin Micalizzi](https://youtu.be/NvHWf96TWrQ). 
 
 
 ---
