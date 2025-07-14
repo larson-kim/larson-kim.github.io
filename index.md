@@ -2,7 +2,7 @@
 
 ---
 
-[Sanctuary Policy Exploration](pages/sanctuary_policies.md)
+[Sanctuary Policy Exploration 2025](pages/sanctuary_policies.md)
 <img src="images/SanctuaryPlaceholder.png?raw=true"/>
 
 ---
