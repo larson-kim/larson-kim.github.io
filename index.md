@@ -10,7 +10,7 @@ Exploring factors around immigration policies.
 
 [Pumpkin Weight Predictions 2025](/pdf/Pumpkins.pdf)
 Machine learning to allow growers to better forecast giant pumpkin weights.
-Historic Parkrose neighborhood culture study. 
+<img src="images/Pumpkins.png?raw=true"/>
 
 ---
 
