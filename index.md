@@ -15,5 +15,5 @@
 <img src="images/ALNA_thumb.png?raw=true"/>
 
 ---
-[St. Johns Neighborhood Culture Study 2024](/pdf/SJNA_2025_April.pdf)
+[St. Johns Neighborhood Culture Study 2024](/pdf/SJNA_2024_April.pdf)
 <img src="images/SJNA_thumb.png?raw=true"/>
