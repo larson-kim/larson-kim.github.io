@@ -1,7 +1,7 @@
 ## Sanctuary Policy Exploration
 Collaborator: [Connor Warren (they/them)](https://github.com/MarcusApollo7).
 
-**Project description:** The question we intend to explore is, “What underlying patterns are associated with the counties implementing sanctuary policies?” To answer this question, information about county demographics, policies in place for the counties, and the political affiliation of elected officials was collected and organized in a relational database.
+**Project description:** TThis project investigates how local economic, demographic, and political factors relate to county-level immigration policy using data from the ILRC, U.S. Census, Bureau of Economic Analysis, and electoral outcomes. We developed predictive models to identify which factors most strongly associate with local cooperation or resistance to federal immigration enforcement. The findings offer insight into the structural patterns that may influence immigration-related policy decisions at the county level.
 
 
 ### 1. Introduction
