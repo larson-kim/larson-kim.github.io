@@ -1,7 +1,5 @@
 ## Sanctuary Policy Exploration
-Collaborator: [Connor Warren (they/them)](https://github.com/MarcusApollo7).
-
-**Project description:** TThis project investigates how local economic, demographic, and political factors relate to county-level immigration policy using data from the ILRC, U.S. Census, Bureau of Economic Analysis, and electoral outcomes. We developed predictive models to identify which factors most strongly associate with local cooperation or resistance to federal immigration enforcement. The findings offer insight into the structural patterns that may influence immigration-related policy decisions at the county level.
+**Project description:** This project investigates how local economic, demographic, and political factors relate to county-level immigration policy using data from the ILRC, U.S. Census, Bureau of Economic Analysis, and electoral outcomes. We developed predictive models to identify which factors most strongly associate with local cooperation or resistance to federal immigration enforcement. The findings offer insight into the structural patterns that may influence immigration-related policy decisions at the county level.
 
 
 ### 1. Introduction
@@ -41,15 +39,16 @@ Economic data by [Bureau of Economic Analysis](https://www.bea.gov/data/gdp/gdp-
 
 Political affiliation data includes the political affilation of the state's governor, the affiliation breakdown of the legislative branch for both the upper and lower houses where applicable, and the county results for the presidential elections since 2008 with the number of total votes cast, and the number of votes for the Democratic and Republican nominees respectively.  
 
-
 **Limitations**
 The identified factors indicate correlation, not causation. It would be remiss at this stage to say the polcies cause the factors, or that the factors drive the policies as a result of this study. 
 
 ### 3. Results
-
+Coming soon! 
+Reach out for updates. 
 
 
 ### 4. Opportunities for future research
 Expanding the scope of the model to include additional metadata includes data available from the [FBI Crime Data Explorer](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home). 
 
-For more details see [Repository](https://guides.github.com/features/mastering-markdown/](https://github.com/wu-msds-capstones/pdx-project-workbook-connor-kim-capstone).
+Collaborator: [Connor Warren (they/them)](https://github.com/MarcusApollo7).
+For more details see [Repository](https://github.com/wu-msds-capstones/pdx-project-workbook-connor-kim-capstone).
