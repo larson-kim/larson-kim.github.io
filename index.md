@@ -33,3 +33,8 @@ Arbor Lodge fields second version of the neighborhood culture study with [Kevin 
 [St. Johns Neighborhood Culture Study 2024](/pdf/SJNA_2024_April.pdf)
 <img src="images/SJNA_thumb.png?raw=true"/>
 [St Johns](https://www.stjohnspdx.org/get-involved/survey) fields the pilot version of the neighborhood culture study. 
+
+---
+[Pollution and Development 2011](/pdf/LarsonISP.pdf)
+<img src="images/Uganda.png?raw=true"/>
+Evaluating Equity in Kampala, Uganda's Waste Management System. 
