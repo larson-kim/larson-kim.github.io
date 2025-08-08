@@ -2,9 +2,14 @@
 
 ---
 
-[Sanctuary Policy Exploration 2025](pages/sanctuary_policies.md)
+[Sanctuary Policy Presentation 2025](/pdf/ILRC_2025.pdf)
 <img src="images/SanctuaryPlaceholder.png?raw=true"/>
-Exploring factors around immigration policies.
+Findings regarding the relationship between immigration policies and county census, GDP, and voter data. 
+
+---
+[Sanctuary Policy Research 2025](pages/sanctuary_policies.md)
+<img src="images/SanctuaryPlaceholder.png?raw=true"/>
+Methodology regarding the relationship between immigration policies and county census, GDP, and voter data. 
 
 ---
 
