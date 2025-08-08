@@ -7,8 +7,8 @@
 Findings regarding the relationship between immigration policies and county census, GDP, and voter data. 
 
 ---
-[Sanctuary Policy Research 2025](pages/sanctuary_policies.md)
-<img src="images/SanctuaryPlaceholder.png?raw=true"/>
+[Sanctuary Policy Research 2025](pages/Policy_Draft.html)
+<img src="images/ilrc_pop.png?raw=true"/>
 Methodology regarding the relationship between immigration policies and county census, GDP, and voter data. 
 
 ---
