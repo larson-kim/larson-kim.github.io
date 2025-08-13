@@ -1,4 +1,9 @@
 ## Projects
+---
+
+[Privilege & Academic Success Presentation 2025](/pdf/AcademicSuccess_Priv_Outliers.pdf)
+<img src="images/PrivQuads.png?raw=true"/>
+This project investigates patterns among districts that deviate from the correlation between privilege and academic success, as overperformers and underperformers. Academic success is defined by combining graduation rates by district with proficiency levels in math, reading, and science. Privilege was defined as the inverse of the Area Deprivation Index, which consisted of economic, housing, and social factors. 
 
 ---
 
