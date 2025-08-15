@@ -21,6 +21,7 @@ The writeup for the research, including the summary, background, methodolgy, con
 ---
 [Sanctuary Policy Research Code 2025](pages/Policy_Draft.html)
 <img src="images/ScaryPython.png?raw=true"/>
+
 The code behind the Sanctuary Policy Research for future research including data sources, data cleaning, machine learning, and visualizations used in the presentation. 
 
 ---
