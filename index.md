@@ -12,9 +12,16 @@ This project investigates patterns among districts that deviate from the correla
 Findings regarding the relationship between immigration policies and county census, GDP, and voter data. 
 
 ---
-[Sanctuary Policy Research 2025](pages/Policy_Draft.html)
+
+[Sanctuary Policy Report 2025](https://wu-msds-capstones.github.io/immigration-policy-research/)
 <img src="images/ILRC_features.png?raw=true"/>
-Methodology regarding the relationship between immigration policies and county census, GDP, and voter data. 
+The writeup for the research, including the summary, background, methodolgy, conclusion, and suggestions for future research. 
+
+
+---
+[Sanctuary Policy Research Code 2025](pages/Policy_Draft.html)
+<img src="images/ScaryPython.png?raw=true"/>
+The code behind the Sanctuary Policy Research for future research including data sources, data cleaning, machine learning, and visualizations used in the presentation. 
 
 ---
 
@@ -29,6 +36,7 @@ Machine learning to allow growers to better forecast giant pumpkin weights with 
 [Historic Parkrose](https://historicparkrose.com/en/2025survey) fields third version of the neighborhood culture study. 
 
 ---
+
 [Arbor Lodge Culture Study 2024](/pdf/ALNA.pdf)
 <img src="images/ALNA_thumb.png?raw=true"/>
 Arbor Lodge fields second version of the neighborhood culture study with [Kevin Micalizzi](https://youtu.be/NvHWf96TWrQ). 
